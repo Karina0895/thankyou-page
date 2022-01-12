@@ -22,7 +22,7 @@
               <a href="http://www.payroll.ca" target="_blank"><img src="img/foot-logo5.png" alt="payroll"></a>
           </div>
           <div class="copyright">
-              <p>© Wagepoint Inc. 2021 all rights reserved. The images, text, trademarks and other elements of this
+              <p>© Wagepoint Inc. 2022 all rights reserved. The images, text, trademarks and other elements of this
                   website are the intellectual property of Wagepoint.</p>
               <div>
                   <a href="https://wagepoint.com/legal/terms-of-service" target="_blank">Terms of Use</a> |
